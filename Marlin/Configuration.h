@@ -33,7 +33,7 @@
 // #define V5_330_TITAN_TMC 1
 // #define V5_330_TITAN_NO_TMC 1
 // #define V5_330_NO_TITAN_TMC 1
-// #define V5_330_NO_TITAN_NO_TMC 1
+#define V5_330_NO_TITAN_NO_TMC 1
 
 // #define XY3_V5_310_NO_TITAN_NO_TMC_NO_ABL 1
 // #define XY3_V5_330_NO_TITAN_TMC_NO_ABL 1
@@ -58,7 +58,7 @@
 // #define BTT_SKR_TURBO_330_NO_TITAN_TMC_2209_UART 1
 
 // #define TFT_LVGL_UI
-// #define TFT_CLASSIC_UI
+#define TFT_CLASSIC_UI
 // #define TFT_COLOR_UI
 
 #if V6_330_TITAN_TMC
